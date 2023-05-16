@@ -1,0 +1,19 @@
+body
+{
+background-image: linear-gradient(to right top, #030746, #0b77d6, #b482e0, rgb(237, 151, 210), #e2dbb7);
+}
+#start-btn
+{
+    width: 40%;
+} 
+
+#textbox
+{
+    width: 700px;
+   
+}
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
